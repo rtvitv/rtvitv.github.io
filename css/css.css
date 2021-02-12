@@ -1,0 +1,48 @@
+html,body {
+    margin:0;
+    padding:0;
+    text-align:center;
+    height:100%
+}
+#page {
+    text-align:left;
+    margin:0 auto;
+    min-height:100%;
+    width:960px;
+}
+#page h3 {text-align:center; margin:0}
+#header {
+    background-color:#06F;
+    height:500px;
+    margin:0 0 0px
+}
+#left {
+    background-color:#C93;
+    float:left;
+    height:100px;
+    width:180px;
+}
+#right {
+    background-color:#C93;
+    float:right;
+    height:100px;
+    width:180px;
+}
+#content {
+    margin:0 180px;
+    padding:10px
+}
+.clear {
+    clear:both;
+    height:0px;
+}
+#substrate-footer {
+    height:100px;
+    margin:20px 0 0
+}
+#footer {
+    background-color:#6C9;
+    height:100px;
+    margin:0px auto 0;
+    width:830px;
+}
